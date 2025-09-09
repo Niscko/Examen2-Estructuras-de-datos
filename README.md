@@ -3,4 +3,3 @@
 # Nicolás Agudelo Mesa
 # Santiago Martinez Lora
 
-# Examen2-Estructuras-De-Datos.

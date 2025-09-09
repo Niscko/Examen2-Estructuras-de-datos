@@ -44,7 +44,7 @@ export class LinkedList {
       i++;
     }
   }
-  toArray() {
+  toArray() { 
     const out = [];
     let cur = this.head;
     while (cur) {
@@ -53,38 +53,21 @@ export class LinkedList {
     }
     return out;
   }
-}
-
-const url = 'https://zenquotes.io/api/quotes';
-
-let si = "";
-
-async function obtenerQuotes() {
-  const response = await fetch(url);
-  const data = await response.json();
-  si = data.map(item => item.q).join(' ');
-  procesar(si);
-}
-
-function procesar(si) {
-  const arrayDeque = [];
-  const palabras = si.split(" ");
-  palabras.forEach(palabra => {
-    const lista = new LinkedList();
-    let incremento = 1;
-    for (const letra of palabra) {
-      let valor = letra.charCodeAt(0) + incremento;
-      lista.push(valor);
-      incremento += 2;
+  swap() {
+    if (!this.head || !this.head.next) return;
+    let prev = null;
+    let cur = this.head;
+    this.head = cur.next;
+    while (cur && cur.next) {
+      let next = cur.next;
+      let nextPair = next.next;
+      next.next = cur;
+      cur.next = nextPair;
+      if (prev) {
+        prev.next = next;
+      }
+      prev = cur;
+      cur = nextPair;
     }
-    arrayDeque.push(lista);
-  });
-  arrayDeque.forEach((lista, pos) => {
-    console.log(`Palabra ${pos + 1}:`, lista.toArray());
-    const palabra = lista.toArray().map(num => String.fromCharCode(num)).join('');
-    console.log(`Palabra ${pos + 1} desencriptada:`, palabra);
-  });
+  }
 }
-
-obtenerQuotes();
-
