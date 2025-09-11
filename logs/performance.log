@@ -1,0 +1,446 @@
+[2025-09-11T10:07:01.115] [INFO] performance - 
+ === PROCESO [ PerformanceMonitor ] ===
+ - Uso Memoria Inicio : 52 MB
+ - Consumo CPU Sistema Inicio : 0.00 %
+ - Uso Memoria Final : 63 MB
+ - Consumo CPU Sistema Final : 0.00 %
+ - Incremento Memoria Proceso : 11 MB
+ - Δ CPU Sistema : 0.00 %
+ - %CPU del Proceso (intervalo) : 1.94 %
+ - Tiempo Ejecucion : 3217 ms
+ - Memoria Física Total: 15182 MB
+ - Memoria Física Usada: 11850 MB
+ - Número de Hilos Activos: N/D
+ - SO: Microsoft Windows 11 Pro 10.0.26100
+
+[2025-09-11T10:07:31.658] [INFO] performance - 
+ === PROCESO [ PerformanceMonitor ] ===
+ - Uso Memoria Inicio : 52 MB
+ - Consumo CPU Sistema Inicio : 0.00 %
+ - Uso Memoria Final : 63 MB
+ - Consumo CPU Sistema Final : 0.00 %
+ - Incremento Memoria Proceso : 11 MB
+ - Δ CPU Sistema : 0.00 %
+ - %CPU del Proceso (intervalo) : 2.10 %
+ - Tiempo Ejecucion : 3109 ms
+ - Memoria Física Total: 15182 MB
+ - Memoria Física Usada: 12003 MB
+ - Número de Hilos Activos: N/D
+ - SO: Microsoft Windows 11 Pro 10.0.26100
+
+[2025-09-11T10:28:06.788] [INFO] performance - 
+=== Fase1: encriptar : INICIO ===
+Mem proceso inicio: 54 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 56 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 2 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.33 %
+Tiempo ejecución  : 2670 ms
+Mem física total  : 15182 MB
+Mem física usada  : 12042 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== Fase1: encriptar : FIN ===
+
+[2025-09-11T10:28:09.765] [INFO] performance - 
+=== Fase1: encriptar : INICIO ===
+Mem proceso inicio: 56 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 57 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 1 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.23 %
+Tiempo ejecución  : 2567 ms
+Mem física total  : 15182 MB
+Mem física usada  : 12068 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== Fase1: encriptar : FIN ===
+
+[2025-09-11T10:28:15.405] [INFO] performance - 
+=== Fase1: encriptar : INICIO ===
+Mem proceso inicio: 55 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 56 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 2 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.24 %
+Tiempo ejecución  : 2901 ms
+Mem física total  : 15182 MB
+Mem física usada  : 12151 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== Fase1: encriptar : FIN ===
+
+[2025-09-11T10:28:17.904] [INFO] performance - 
+=== Fase1: encriptar : INICIO ===
+Mem proceso inicio: 56 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 57 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 2 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.17 %
+Tiempo ejecución  : 2845 ms
+Mem física total  : 15182 MB
+Mem física usada  : 12166 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== Fase1: encriptar : FIN ===
+
+[2025-09-11T10:28:24.827] [INFO] performance - 
+=== Fase2: desencriptar : INICIO ===
+Mem proceso inicio: 62 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 68 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 6 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.77 %
+Tiempo ejecución  : 2669 ms
+Mem física total  : 15182 MB
+Mem física usada  : 12002 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== Fase2: desencriptar : FIN ===
+
+[2025-09-11T10:28:27.290] [INFO] performance - 
+=== Fase2: desencriptar : INICIO ===
+Mem proceso inicio: 68 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 69 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 1 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.34 %
+Tiempo ejecución  : 2582 ms
+Mem física total  : 15182 MB
+Mem física usada  : 12081 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== Fase2: desencriptar : FIN ===
+
+[2025-09-11T10:28:33.387] [INFO] performance - 
+=== PerformanceMonitor : INICIO ===
+Mem proceso inicio: 53 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 62 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 9 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.65 %
+Tiempo ejecución  : 22232 ms
+Mem física total  : 15182 MB
+Mem física usada  : 12018 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== PerformanceMonitor : FIN ===
+
+[2025-09-11T10:37:57.935] [INFO] performance - 
+=== Fase1: encriptar : INICIO ===
+Mem proceso inicio: 54 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 56 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 2 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.34 %
+Tiempo ejecución  : 2583 ms
+Mem física total  : 15182 MB
+Mem física usada  : 11969 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== Fase1: encriptar : FIN ===
+
+[2025-09-11T10:38:00.310] [INFO] performance - 
+=== Fase1: encriptar : INICIO ===
+Mem proceso inicio: 55 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 57 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 2 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.24 %
+Tiempo ejecución  : 2484 ms
+Mem física total  : 15182 MB
+Mem física usada  : 11987 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== Fase1: encriptar : FIN ===
+
+[2025-09-11T10:38:06.778] [INFO] performance - 
+=== Fase2: desencriptar : INICIO ===
+Mem proceso inicio: 57 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 58 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 1 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.59 %
+Tiempo ejecución  : 2504 ms
+Mem física total  : 15182 MB
+Mem física usada  : 11988 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== Fase2: desencriptar : FIN ===
+
+[2025-09-11T10:38:08.672] [INFO] performance - 
+=== Fase2: desencriptar : INICIO ===
+Mem proceso inicio: 58 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 58 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 0 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.33 %
+Tiempo ejecución  : 2414 ms
+Mem física total  : 15182 MB
+Mem física usada  : 12037 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== Fase2: desencriptar : FIN ===
+
+[2025-09-11T10:38:14.244] [INFO] performance - 
+=== PerformanceMonitor : INICIO ===
+Mem proceso inicio: 52 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 64 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 12 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.76 %
+Tiempo ejecución  : 19722 ms
+Mem física total  : 15182 MB
+Mem física usada  : 11994 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== PerformanceMonitor : FIN ===
+
+[2025-09-11T10:57:57.499] [INFO] performance - 
+=== Fase1: encriptar : INICIO ===
+Mem proceso inicio: 54 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 56 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 2 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.36 %
+Tiempo ejecución  : 2677 ms
+Mem física total  : 15182 MB
+Mem física usada  : 12840 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== Fase1: encriptar : FIN ===
+
+[2025-09-11T10:57:59.912] [INFO] performance - 
+=== Fase1: encriptar : INICIO ===
+Mem proceso inicio: 55 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 57 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 3 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.52 %
+Tiempo ejecución  : 2641 ms
+Mem física total  : 15182 MB
+Mem física usada  : 12869 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== Fase1: encriptar : FIN ===
+
+[2025-09-11T10:58:06.365] [INFO] performance - 
+=== Fase2: desencriptar : INICIO ===
+Mem proceso inicio: 57 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 60 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 3 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.66 %
+Tiempo ejecución  : 2520 ms
+Mem física total  : 15182 MB
+Mem física usada  : 12852 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== Fase2: desencriptar : FIN ===
+
+[2025-09-11T10:58:08.436] [INFO] performance - 
+=== Fase2: desencriptar : INICIO ===
+Mem proceso inicio: 59 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 60 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 1 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.16 %
+Tiempo ejecución  : 2483 ms
+Mem física total  : 15182 MB
+Mem física usada  : 12853 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== Fase2: desencriptar : FIN ===
+
+[2025-09-11T10:58:14.809] [INFO] performance - 
+=== PerformanceMonitor : INICIO ===
+Mem proceso inicio: 51 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 64 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 12 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.67 %
+Tiempo ejecución  : 20702 ms
+Mem física total  : 15182 MB
+Mem física usada  : 12793 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== PerformanceMonitor : FIN ===
+
+[2025-09-11T10:59:14.959] [INFO] performance - 
+=== Fase1: encriptar : INICIO ===
+Mem proceso inicio: 55 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 55 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 1 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.24 %
+Tiempo ejecución  : 2466 ms
+Mem física total  : 15182 MB
+Mem física usada  : 12791 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== Fase1: encriptar : FIN ===
+
+[2025-09-11T10:59:23.737] [INFO] performance - 
+=== Fase2: desencriptar : INICIO ===
+Mem proceso inicio: 56 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 57 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 0 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.14 %
+Tiempo ejecución  : 2906 ms
+Mem física total  : 15182 MB
+Mem física usada  : 12984 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== Fase2: desencriptar : FIN ===
+
+[2025-09-11T10:59:29.626] [INFO] performance - 
+=== PerformanceMonitor : INICIO ===
+Mem proceso inicio: 48 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 58 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 10 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.42 %
+Tiempo ejecución  : 20598 ms
+Mem física total  : 15182 MB
+Mem física usada  : 12920 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== PerformanceMonitor : FIN ===
+
+[2025-09-11T13:16:25.634] [INFO] performance - 
+=== Fase1: encriptar : INICIO ===
+Mem proceso inicio: 55 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 56 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 1 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.19 %
+Tiempo ejecución  : 2057 ms
+Mem física total  : 15182 MB
+Mem física usada  : 11489 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== Fase1: encriptar : FIN ===
+
+[2025-09-11T13:16:32.621] [INFO] performance - 
+=== Fase2: desencriptar : INICIO ===
+Mem proceso inicio: 57 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 57 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 0 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.10 %
+Tiempo ejecución  : 2023 ms
+Mem física total  : 15182 MB
+Mem física usada  : 11521 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== Fase2: desencriptar : FIN ===
+
+[2025-09-11T13:16:37.541] [INFO] performance - 
+=== PerformanceMonitor : INICIO ===
+Mem proceso inicio: 48 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 58 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 10 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.44 %
+Tiempo ejecución  : 17996 ms
+Mem física total  : 15182 MB
+Mem física usada  : 11602 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== PerformanceMonitor : FIN ===
+
+[2025-09-11T13:38:50.881] [INFO] performance - 
+=== Fase1: encriptar : INICIO ===
+Mem proceso inicio: 55 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 55 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 0 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.04 %
+Tiempo ejecución  : 2727 ms
+Mem física total  : 15182 MB
+Mem física usada  : 11248 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== Fase1: encriptar : FIN ===
+
+[2025-09-11T13:38:59.136] [INFO] performance - 
+=== Fase2: desencriptar : INICIO ===
+Mem proceso inicio: 56 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 56 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 0 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.21 %
+Tiempo ejecución  : 2346 ms
+Mem física total  : 15182 MB
+Mem física usada  : 11227 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== Fase2: desencriptar : FIN ===
+
+[2025-09-11T13:39:04.233] [INFO] performance - 
+=== PerformanceMonitor : INICIO ===
+Mem proceso inicio: 48 MB
+CPU sistema inicio: 0.00 %
+Mem proceso final : 57 MB
+CPU sistema final : 0.00 %
+Δ Mem proceso     : 9 MB
+Δ CPU sistema     : 0.00 %
+%CPU del proceso  : 0.39 %
+Tiempo ejecución  : 19691 ms
+Mem física total  : 15182 MB
+Mem física usada  : 11215 MB
+Hilos del proceso : N/D
+SO                : Microsoft Windows 11 Pro 10.0.26100
+=== PerformanceMonitor : FIN ===
+
