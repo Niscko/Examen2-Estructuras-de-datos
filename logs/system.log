@@ -1,0 +1,822 @@
+[2025-09-11T10:27:59.788] [INFO] system - [F1] INICIO  palabras=48
+[2025-09-11T10:27:59.792] [INFO] system - [F1] FIN resumen: palabras=48 nodos=215
+[2025-09-11T10:28:02.185] [INFO] system - [F1] INICIO  palabras=78
+[2025-09-11T10:28:02.186] [INFO] system - [F1] FIN resumen: palabras=78 nodos=296
+[2025-09-11T10:28:08.455] [INFO] system - [F1] INICIO  palabras=55
+[2025-09-11T10:28:08.461] [INFO] system - [F1] FIN resumen: palabras=55 nodos=241
+[2025-09-11T10:28:09.683] [INFO] system - [F2] INICIO  deque_size=48
+[2025-09-11T10:28:09.686] [INFO] system - [F2] FIN resumen: palabras=48 nodos=215
+[2025-09-11T10:28:11.064] [INFO] system - [F1] INICIO  palabras=86
+[2025-09-11T10:28:11.067] [INFO] system - [F1] FIN resumen: palabras=86 nodos=378
+[2025-09-11T10:28:18.100] [INFO] system - [F2] INICIO  deque_size=55
+[2025-09-11T10:28:18.103] [INFO] system - [F2] FIN resumen: palabras=55 nodos=241
+[2025-09-11T10:28:20.512] [INFO] system - [F2] INICIO  deque_size=86
+[2025-09-11T10:28:20.514] [INFO] system - [F2] FIN resumen: palabras=86 nodos=378
+[2025-09-11T10:37:52.019] [INFO] system - [F1] INICIO  palabras=70
+[2025-09-11T10:37:52.025] [INFO] system - [F1] FIN resumen: palabras=70 nodos=299
+[2025-09-11T10:37:54.344] [INFO] system - [F1] INICIO  palabras=89
+[2025-09-11T10:37:54.345] [INFO] system - [F1] FIN resumen: palabras=89 nodos=394
+[2025-09-11T10:38:00.476] [INFO] system - [F2] INICIO  deque_size=70
+[2025-09-11T10:38:00.479] [INFO] system - [F2] FIN resumen: palabras=70 nodos=299
+[2025-09-11T10:38:02.755] [INFO] system - [F2] INICIO  deque_size=89
+[2025-09-11T10:38:02.757] [INFO] system - [F2] FIN resumen: palabras=89 nodos=394
+[2025-09-11T10:57:50.901] [INFO] system - [F1] INICIO  palabras=104
+[2025-09-11T10:57:50.907] [INFO] system - [F1] FIN resumen: palabras=104 nodos=438
+[2025-09-11T10:57:53.457] [INFO] system - [F1] INICIO  palabras=80
+[2025-09-11T10:57:53.459] [INFO] system - [F1] FIN resumen: palabras=80 nodos=327
+[2025-09-11T10:58:00.051] [INFO] system - [F2] INICIO  deque_size=104
+[2025-09-11T10:58:00.057] [INFO] system - [F2] FIN resumen: palabras=104 nodos=438
+[2025-09-11T10:58:02.421] [INFO] system - [F2] INICIO  deque_size=80
+[2025-09-11T10:58:02.422] [INFO] system - [F2] FIN resumen: palabras=80 nodos=327
+[2025-09-11T10:59:08.720] [INFO] system - [F1] INICIO  palabras=66
+[2025-09-11T10:59:08.725] [INFO] system - [F1] FIN resumen: palabras=66 nodos=284
+[2025-09-11T10:59:17.898] [INFO] system - [F2] INICIO  deque_size=66
+[2025-09-11T10:59:17.901] [INFO] system - [F2] FIN resumen: palabras=66 nodos=284
+[2025-09-11T12:44:01.913] [INFO] system - [F1] INICIO  palabras=10
+[2025-09-11T12:44:01.916] [INFO] system - [F1] FIN resumen: palabras=10 nodos=72
+[2025-09-11T12:44:01.916] [INFO] system - [F2] INICIO  deque_size=10
+[2025-09-11T12:44:01.917] [INFO] system - [F2] FIN resumen: palabras=10 nodos=72
+[2025-09-11T12:44:01.917] [INFO] system - [F1] INICIO  palabras=10
+[2025-09-11T12:44:01.917] [INFO] system - [F1] FIN resumen: palabras=10 nodos=72
+[2025-09-11T12:44:01.917] [INFO] system - [F2] INICIO  deque_size=10
+[2025-09-11T12:44:01.918] [INFO] system - [F2] FIN resumen: palabras=10 nodos=72
+[2025-09-11T12:44:01.918] [INFO] system - [F1] INICIO  palabras=10
+[2025-09-11T12:44:01.919] [INFO] system - [F1] FIN resumen: palabras=10 nodos=72
+[2025-09-11T12:44:01.919] [INFO] system - [F2] INICIO  deque_size=10
+[2025-09-11T12:44:01.919] [INFO] system - [F2] FIN resumen: palabras=10 nodos=72
+[2025-09-11T12:44:01.919] [INFO] system - [F1] INICIO  palabras=10
+[2025-09-11T12:44:01.919] [INFO] system - [F1] FIN resumen: palabras=10 nodos=72
+[2025-09-11T12:44:01.919] [INFO] system - [F2] INICIO  deque_size=10
+[2025-09-11T12:44:01.920] [INFO] system - [F2] FIN resumen: palabras=10 nodos=72
+[2025-09-11T12:44:01.920] [INFO] system - [F1] INICIO  palabras=10
+[2025-09-11T12:44:01.920] [INFO] system - [F1] FIN resumen: palabras=10 nodos=72
+[2025-09-11T12:44:01.920] [INFO] system - [F2] INICIO  deque_size=10
+[2025-09-11T12:44:01.920] [INFO] system - [F2] FIN resumen: palabras=10 nodos=72
+[2025-09-11T12:44:01.920] [INFO] system - [F1] INICIO  palabras=50
+[2025-09-11T12:44:01.921] [INFO] system - [F1] FIN resumen: palabras=50 nodos=314
+[2025-09-11T12:44:01.921] [INFO] system - [F2] INICIO  deque_size=50
+[2025-09-11T12:44:01.923] [INFO] system - [F2] FIN resumen: palabras=50 nodos=314
+[2025-09-11T12:44:01.923] [INFO] system - [F1] INICIO  palabras=50
+[2025-09-11T12:44:01.924] [INFO] system - [F1] FIN resumen: palabras=50 nodos=314
+[2025-09-11T12:44:01.924] [INFO] system - [F2] INICIO  deque_size=50
+[2025-09-11T12:44:01.925] [INFO] system - [F2] FIN resumen: palabras=50 nodos=314
+[2025-09-11T12:44:01.925] [INFO] system - [F1] INICIO  palabras=50
+[2025-09-11T12:44:01.927] [INFO] system - [F1] FIN resumen: palabras=50 nodos=314
+[2025-09-11T12:44:01.927] [INFO] system - [F2] INICIO  deque_size=50
+[2025-09-11T12:44:01.928] [INFO] system - [F2] FIN resumen: palabras=50 nodos=314
+[2025-09-11T12:44:01.928] [INFO] system - [F1] INICIO  palabras=50
+[2025-09-11T12:44:01.929] [INFO] system - [F1] FIN resumen: palabras=50 nodos=314
+[2025-09-11T12:44:01.929] [INFO] system - [F2] INICIO  deque_size=50
+[2025-09-11T12:44:01.930] [INFO] system - [F2] FIN resumen: palabras=50 nodos=314
+[2025-09-11T12:44:01.930] [INFO] system - [F1] INICIO  palabras=50
+[2025-09-11T12:44:01.931] [INFO] system - [F1] FIN resumen: palabras=50 nodos=314
+[2025-09-11T12:44:01.931] [INFO] system - [F2] INICIO  deque_size=50
+[2025-09-11T12:44:01.932] [INFO] system - [F2] FIN resumen: palabras=50 nodos=314
+[2025-09-11T12:44:01.932] [INFO] system - [F1] INICIO  palabras=100
+[2025-09-11T12:44:01.935] [INFO] system - [F1] FIN resumen: palabras=100 nodos=669
+[2025-09-11T12:44:01.935] [INFO] system - [F2] INICIO  deque_size=100
+[2025-09-11T12:44:01.936] [INFO] system - [F2] FIN resumen: palabras=100 nodos=669
+[2025-09-11T12:44:01.937] [INFO] system - [F1] INICIO  palabras=100
+[2025-09-11T12:44:01.939] [INFO] system - [F1] FIN resumen: palabras=100 nodos=669
+[2025-09-11T12:44:01.939] [INFO] system - [F2] INICIO  deque_size=100
+[2025-09-11T12:44:01.941] [INFO] system - [F2] FIN resumen: palabras=100 nodos=669
+[2025-09-11T12:44:01.941] [INFO] system - [F1] INICIO  palabras=100
+[2025-09-11T12:44:01.943] [INFO] system - [F1] FIN resumen: palabras=100 nodos=669
+[2025-09-11T12:44:01.943] [INFO] system - [F2] INICIO  deque_size=100
+[2025-09-11T12:44:01.946] [INFO] system - [F2] FIN resumen: palabras=100 nodos=669
+[2025-09-11T12:44:01.946] [INFO] system - [F1] INICIO  palabras=100
+[2025-09-11T12:44:01.948] [INFO] system - [F1] FIN resumen: palabras=100 nodos=669
+[2025-09-11T12:44:01.948] [INFO] system - [F2] INICIO  deque_size=100
+[2025-09-11T12:44:01.950] [INFO] system - [F2] FIN resumen: palabras=100 nodos=669
+[2025-09-11T12:44:01.950] [INFO] system - [F1] INICIO  palabras=100
+[2025-09-11T12:44:01.952] [INFO] system - [F1] FIN resumen: palabras=100 nodos=669
+[2025-09-11T12:44:01.952] [INFO] system - [F2] INICIO  deque_size=100
+[2025-09-11T12:44:01.954] [INFO] system - [F2] FIN resumen: palabras=100 nodos=669
+[2025-09-11T12:44:01.954] [INFO] system - [F1] INICIO  palabras=150
+[2025-09-11T12:44:01.957] [INFO] system - [F1] FIN resumen: palabras=150 nodos=961
+[2025-09-11T12:44:01.957] [INFO] system - [F2] INICIO  deque_size=150
+[2025-09-11T12:44:01.960] [INFO] system - [F2] FIN resumen: palabras=150 nodos=961
+[2025-09-11T12:44:01.960] [INFO] system - [F1] INICIO  palabras=150
+[2025-09-11T12:44:01.963] [INFO] system - [F1] FIN resumen: palabras=150 nodos=961
+[2025-09-11T12:44:01.963] [INFO] system - [F2] INICIO  deque_size=150
+[2025-09-11T12:44:01.966] [INFO] system - [F2] FIN resumen: palabras=150 nodos=961
+[2025-09-11T12:44:01.966] [INFO] system - [F1] INICIO  palabras=150
+[2025-09-11T12:44:01.970] [INFO] system - [F1] FIN resumen: palabras=150 nodos=961
+[2025-09-11T12:44:01.970] [INFO] system - [F2] INICIO  deque_size=150
+[2025-09-11T12:44:01.973] [INFO] system - [F2] FIN resumen: palabras=150 nodos=961
+[2025-09-11T12:44:01.973] [INFO] system - [F1] INICIO  palabras=150
+[2025-09-11T12:44:01.976] [INFO] system - [F1] FIN resumen: palabras=150 nodos=961
+[2025-09-11T12:44:01.976] [INFO] system - [F2] INICIO  deque_size=150
+[2025-09-11T12:44:01.980] [INFO] system - [F2] FIN resumen: palabras=150 nodos=961
+[2025-09-11T12:44:01.980] [INFO] system - [F1] INICIO  palabras=150
+[2025-09-11T12:44:01.986] [INFO] system - [F1] FIN resumen: palabras=150 nodos=961
+[2025-09-11T12:44:01.986] [INFO] system - [F2] INICIO  deque_size=150
+[2025-09-11T12:44:01.992] [INFO] system - [F2] FIN resumen: palabras=150 nodos=961
+[2025-09-11T12:44:01.992] [INFO] system - [F1] INICIO  palabras=200
+[2025-09-11T12:44:01.999] [INFO] system - [F1] FIN resumen: palabras=200 nodos=1277
+[2025-09-11T12:44:01.999] [INFO] system - [F2] INICIO  deque_size=200
+[2025-09-11T12:44:02.003] [INFO] system - [F2] FIN resumen: palabras=200 nodos=1277
+[2025-09-11T12:44:02.003] [INFO] system - [F1] INICIO  palabras=200
+[2025-09-11T12:44:02.009] [INFO] system - [F1] FIN resumen: palabras=200 nodos=1277
+[2025-09-11T12:44:02.009] [INFO] system - [F2] INICIO  deque_size=200
+[2025-09-11T12:44:02.012] [INFO] system - [F2] FIN resumen: palabras=200 nodos=1277
+[2025-09-11T12:44:02.012] [INFO] system - [F1] INICIO  palabras=200
+[2025-09-11T12:44:02.015] [INFO] system - [F1] FIN resumen: palabras=200 nodos=1277
+[2025-09-11T12:44:02.015] [INFO] system - [F2] INICIO  deque_size=200
+[2025-09-11T12:44:02.018] [INFO] system - [F2] FIN resumen: palabras=200 nodos=1277
+[2025-09-11T12:44:02.018] [INFO] system - [F1] INICIO  palabras=200
+[2025-09-11T12:44:02.024] [INFO] system - [F1] FIN resumen: palabras=200 nodos=1277
+[2025-09-11T12:44:02.024] [INFO] system - [F2] INICIO  deque_size=200
+[2025-09-11T12:44:02.028] [INFO] system - [F2] FIN resumen: palabras=200 nodos=1277
+[2025-09-11T12:44:02.028] [INFO] system - [F1] INICIO  palabras=200
+[2025-09-11T12:44:02.031] [INFO] system - [F1] FIN resumen: palabras=200 nodos=1277
+[2025-09-11T12:44:02.031] [INFO] system - [F2] INICIO  deque_size=200
+[2025-09-11T12:44:02.033] [INFO] system - [F2] FIN resumen: palabras=200 nodos=1277
+[2025-09-11T12:44:02.034] [INFO] system - [F1] INICIO  palabras=250
+[2025-09-11T12:44:02.038] [INFO] system - [F1] FIN resumen: palabras=250 nodos=1667
+[2025-09-11T12:44:02.038] [INFO] system - [F2] INICIO  deque_size=250
+[2025-09-11T12:44:02.041] [INFO] system - [F2] FIN resumen: palabras=250 nodos=1667
+[2025-09-11T12:44:02.041] [INFO] system - [F1] INICIO  palabras=250
+[2025-09-11T12:44:02.044] [INFO] system - [F1] FIN resumen: palabras=250 nodos=1667
+[2025-09-11T12:44:02.044] [INFO] system - [F2] INICIO  deque_size=250
+[2025-09-11T12:44:02.047] [INFO] system - [F2] FIN resumen: palabras=250 nodos=1667
+[2025-09-11T12:44:02.047] [INFO] system - [F1] INICIO  palabras=250
+[2025-09-11T12:44:02.051] [INFO] system - [F1] FIN resumen: palabras=250 nodos=1667
+[2025-09-11T12:44:02.051] [INFO] system - [F2] INICIO  deque_size=250
+[2025-09-11T12:44:02.053] [INFO] system - [F2] FIN resumen: palabras=250 nodos=1667
+[2025-09-11T12:44:02.053] [INFO] system - [F1] INICIO  palabras=250
+[2025-09-11T12:44:02.055] [INFO] system - [F1] FIN resumen: palabras=250 nodos=1667
+[2025-09-11T12:44:02.055] [INFO] system - [F2] INICIO  deque_size=250
+[2025-09-11T12:44:02.058] [INFO] system - [F2] FIN resumen: palabras=250 nodos=1667
+[2025-09-11T12:44:02.058] [INFO] system - [F1] INICIO  palabras=250
+[2025-09-11T12:44:02.061] [INFO] system - [F1] FIN resumen: palabras=250 nodos=1667
+[2025-09-11T12:44:02.061] [INFO] system - [F2] INICIO  deque_size=250
+[2025-09-11T12:44:02.063] [INFO] system - [F2] FIN resumen: palabras=250 nodos=1667
+[2025-09-11T12:44:02.063] [INFO] system - [F1] INICIO  palabras=300
+[2025-09-11T12:44:02.067] [INFO] system - [F1] FIN resumen: palabras=300 nodos=1957
+[2025-09-11T12:44:02.067] [INFO] system - [F2] INICIO  deque_size=300
+[2025-09-11T12:44:02.070] [INFO] system - [F2] FIN resumen: palabras=300 nodos=1957
+[2025-09-11T12:44:02.070] [INFO] system - [F1] INICIO  palabras=300
+[2025-09-11T12:44:02.073] [INFO] system - [F1] FIN resumen: palabras=300 nodos=1957
+[2025-09-11T12:44:02.073] [INFO] system - [F2] INICIO  deque_size=300
+[2025-09-11T12:44:02.076] [INFO] system - [F2] FIN resumen: palabras=300 nodos=1957
+[2025-09-11T12:44:02.076] [INFO] system - [F1] INICIO  palabras=300
+[2025-09-11T12:44:02.079] [INFO] system - [F1] FIN resumen: palabras=300 nodos=1957
+[2025-09-11T12:44:02.079] [INFO] system - [F2] INICIO  deque_size=300
+[2025-09-11T12:44:02.082] [INFO] system - [F2] FIN resumen: palabras=300 nodos=1957
+[2025-09-11T12:44:02.082] [INFO] system - [F1] INICIO  palabras=300
+[2025-09-11T12:44:02.086] [INFO] system - [F1] FIN resumen: palabras=300 nodos=1957
+[2025-09-11T12:44:02.086] [INFO] system - [F2] INICIO  deque_size=300
+[2025-09-11T12:44:02.088] [INFO] system - [F2] FIN resumen: palabras=300 nodos=1957
+[2025-09-11T12:44:02.088] [INFO] system - [F1] INICIO  palabras=300
+[2025-09-11T12:44:02.092] [INFO] system - [F1] FIN resumen: palabras=300 nodos=1957
+[2025-09-11T12:44:02.092] [INFO] system - [F2] INICIO  deque_size=300
+[2025-09-11T12:44:02.095] [INFO] system - [F2] FIN resumen: palabras=300 nodos=1957
+[2025-09-11T12:44:02.095] [INFO] system - [F1] INICIO  palabras=350
+[2025-09-11T12:44:02.099] [INFO] system - [F1] FIN resumen: palabras=350 nodos=2284
+[2025-09-11T12:44:02.099] [INFO] system - [F2] INICIO  deque_size=350
+[2025-09-11T12:44:02.103] [INFO] system - [F2] FIN resumen: palabras=350 nodos=2284
+[2025-09-11T12:44:02.103] [INFO] system - [F1] INICIO  palabras=350
+[2025-09-11T12:44:02.107] [INFO] system - [F1] FIN resumen: palabras=350 nodos=2284
+[2025-09-11T12:44:02.107] [INFO] system - [F2] INICIO  deque_size=350
+[2025-09-11T12:44:02.110] [INFO] system - [F2] FIN resumen: palabras=350 nodos=2284
+[2025-09-11T12:44:02.110] [INFO] system - [F1] INICIO  palabras=350
+[2025-09-11T12:44:02.115] [INFO] system - [F1] FIN resumen: palabras=350 nodos=2284
+[2025-09-11T12:44:02.115] [INFO] system - [F2] INICIO  deque_size=350
+[2025-09-11T12:44:02.119] [INFO] system - [F2] FIN resumen: palabras=350 nodos=2284
+[2025-09-11T12:44:02.119] [INFO] system - [F1] INICIO  palabras=350
+[2025-09-11T12:44:02.123] [INFO] system - [F1] FIN resumen: palabras=350 nodos=2284
+[2025-09-11T12:44:02.123] [INFO] system - [F2] INICIO  deque_size=350
+[2025-09-11T12:44:02.127] [INFO] system - [F2] FIN resumen: palabras=350 nodos=2284
+[2025-09-11T12:44:02.127] [INFO] system - [F1] INICIO  palabras=350
+[2025-09-11T12:44:02.131] [INFO] system - [F1] FIN resumen: palabras=350 nodos=2284
+[2025-09-11T12:44:02.131] [INFO] system - [F2] INICIO  deque_size=350
+[2025-09-11T12:44:02.135] [INFO] system - [F2] FIN resumen: palabras=350 nodos=2284
+[2025-09-11T12:44:02.136] [INFO] system - [F1] INICIO  palabras=400
+[2025-09-11T12:44:02.139] [INFO] system - [F1] FIN resumen: palabras=400 nodos=2606
+[2025-09-11T12:44:02.139] [INFO] system - [F2] INICIO  deque_size=400
+[2025-09-11T12:44:02.144] [INFO] system - [F2] FIN resumen: palabras=400 nodos=2606
+[2025-09-11T12:44:02.144] [INFO] system - [F1] INICIO  palabras=400
+[2025-09-11T12:44:02.148] [INFO] system - [F1] FIN resumen: palabras=400 nodos=2606
+[2025-09-11T12:44:02.148] [INFO] system - [F2] INICIO  deque_size=400
+[2025-09-11T12:44:02.152] [INFO] system - [F2] FIN resumen: palabras=400 nodos=2606
+[2025-09-11T12:44:02.152] [INFO] system - [F1] INICIO  palabras=400
+[2025-09-11T12:44:02.155] [INFO] system - [F1] FIN resumen: palabras=400 nodos=2606
+[2025-09-11T12:44:02.156] [INFO] system - [F2] INICIO  deque_size=400
+[2025-09-11T12:44:02.160] [INFO] system - [F2] FIN resumen: palabras=400 nodos=2606
+[2025-09-11T12:44:02.160] [INFO] system - [F1] INICIO  palabras=400
+[2025-09-11T12:44:02.163] [INFO] system - [F1] FIN resumen: palabras=400 nodos=2606
+[2025-09-11T12:44:02.163] [INFO] system - [F2] INICIO  deque_size=400
+[2025-09-11T12:44:02.167] [INFO] system - [F2] FIN resumen: palabras=400 nodos=2606
+[2025-09-11T12:44:02.167] [INFO] system - [F1] INICIO  palabras=400
+[2025-09-11T12:44:02.170] [INFO] system - [F1] FIN resumen: palabras=400 nodos=2606
+[2025-09-11T12:44:02.170] [INFO] system - [F2] INICIO  deque_size=400
+[2025-09-11T12:44:02.175] [INFO] system - [F2] FIN resumen: palabras=400 nodos=2606
+[2025-09-11T12:44:02.175] [INFO] system - [F1] INICIO  palabras=450
+[2025-09-11T12:44:02.179] [INFO] system - [F1] FIN resumen: palabras=450 nodos=2875
+[2025-09-11T12:44:02.179] [INFO] system - [F2] INICIO  deque_size=450
+[2025-09-11T12:44:02.183] [INFO] system - [F2] FIN resumen: palabras=450 nodos=2875
+[2025-09-11T12:44:02.183] [INFO] system - [F1] INICIO  palabras=450
+[2025-09-11T12:44:02.188] [INFO] system - [F1] FIN resumen: palabras=450 nodos=2875
+[2025-09-11T12:44:02.188] [INFO] system - [F2] INICIO  deque_size=450
+[2025-09-11T12:44:02.192] [INFO] system - [F2] FIN resumen: palabras=450 nodos=2875
+[2025-09-11T12:44:02.192] [INFO] system - [F1] INICIO  palabras=450
+[2025-09-11T12:44:02.196] [INFO] system - [F1] FIN resumen: palabras=450 nodos=2875
+[2025-09-11T12:44:02.196] [INFO] system - [F2] INICIO  deque_size=450
+[2025-09-11T12:44:02.203] [INFO] system - [F2] FIN resumen: palabras=450 nodos=2875
+[2025-09-11T12:44:02.203] [INFO] system - [F1] INICIO  palabras=450
+[2025-09-11T12:44:02.207] [INFO] system - [F1] FIN resumen: palabras=450 nodos=2875
+[2025-09-11T12:44:02.207] [INFO] system - [F2] INICIO  deque_size=450
+[2025-09-11T12:44:02.211] [INFO] system - [F2] FIN resumen: palabras=450 nodos=2875
+[2025-09-11T12:44:02.211] [INFO] system - [F1] INICIO  palabras=450
+[2025-09-11T12:44:02.215] [INFO] system - [F1] FIN resumen: palabras=450 nodos=2875
+[2025-09-11T12:44:02.215] [INFO] system - [F2] INICIO  deque_size=450
+[2025-09-11T12:44:02.220] [INFO] system - [F2] FIN resumen: palabras=450 nodos=2875
+[2025-09-11T12:45:00.920] [INFO] system - [F1] INICIO  palabras=10
+[2025-09-11T12:45:00.923] [INFO] system - [F1] FIN resumen: palabras=10 nodos=77
+[2025-09-11T12:45:00.923] [INFO] system - [F2] INICIO  deque_size=10
+[2025-09-11T12:45:00.924] [INFO] system - [F2] FIN resumen: palabras=10 nodos=77
+[2025-09-11T12:45:00.924] [INFO] system - [F1] INICIO  palabras=10
+[2025-09-11T12:45:00.924] [INFO] system - [F1] FIN resumen: palabras=10 nodos=77
+[2025-09-11T12:45:00.924] [INFO] system - [F2] INICIO  deque_size=10
+[2025-09-11T12:45:00.925] [INFO] system - [F2] FIN resumen: palabras=10 nodos=77
+[2025-09-11T12:45:00.926] [INFO] system - [F1] INICIO  palabras=10
+[2025-09-11T12:45:00.926] [INFO] system - [F1] FIN resumen: palabras=10 nodos=77
+[2025-09-11T12:45:00.926] [INFO] system - [F2] INICIO  deque_size=10
+[2025-09-11T12:45:00.926] [INFO] system - [F2] FIN resumen: palabras=10 nodos=77
+[2025-09-11T12:45:00.926] [INFO] system - [F1] INICIO  palabras=10
+[2025-09-11T12:45:00.927] [INFO] system - [F1] FIN resumen: palabras=10 nodos=77
+[2025-09-11T12:45:00.927] [INFO] system - [F2] INICIO  deque_size=10
+[2025-09-11T12:45:00.927] [INFO] system - [F2] FIN resumen: palabras=10 nodos=77
+[2025-09-11T12:45:00.927] [INFO] system - [F1] INICIO  palabras=10
+[2025-09-11T12:45:00.927] [INFO] system - [F1] FIN resumen: palabras=10 nodos=77
+[2025-09-11T12:45:00.927] [INFO] system - [F2] INICIO  deque_size=10
+[2025-09-11T12:45:00.927] [INFO] system - [F2] FIN resumen: palabras=10 nodos=77
+[2025-09-11T12:45:00.928] [INFO] system - [F1] INICIO  palabras=50
+[2025-09-11T12:45:00.929] [INFO] system - [F1] FIN resumen: palabras=50 nodos=297
+[2025-09-11T12:45:00.929] [INFO] system - [F2] INICIO  deque_size=50
+[2025-09-11T12:45:00.930] [INFO] system - [F2] FIN resumen: palabras=50 nodos=297
+[2025-09-11T12:45:00.930] [INFO] system - [F1] INICIO  palabras=50
+[2025-09-11T12:45:00.931] [INFO] system - [F1] FIN resumen: palabras=50 nodos=297
+[2025-09-11T12:45:00.931] [INFO] system - [F2] INICIO  deque_size=50
+[2025-09-11T12:45:00.933] [INFO] system - [F2] FIN resumen: palabras=50 nodos=297
+[2025-09-11T12:45:00.933] [INFO] system - [F1] INICIO  palabras=50
+[2025-09-11T12:45:00.935] [INFO] system - [F1] FIN resumen: palabras=50 nodos=297
+[2025-09-11T12:45:00.935] [INFO] system - [F2] INICIO  deque_size=50
+[2025-09-11T12:45:00.936] [INFO] system - [F2] FIN resumen: palabras=50 nodos=297
+[2025-09-11T12:45:00.936] [INFO] system - [F1] INICIO  palabras=50
+[2025-09-11T12:45:00.938] [INFO] system - [F1] FIN resumen: palabras=50 nodos=297
+[2025-09-11T12:45:00.938] [INFO] system - [F2] INICIO  deque_size=50
+[2025-09-11T12:45:00.939] [INFO] system - [F2] FIN resumen: palabras=50 nodos=297
+[2025-09-11T12:45:00.940] [INFO] system - [F1] INICIO  palabras=50
+[2025-09-11T12:45:00.941] [INFO] system - [F1] FIN resumen: palabras=50 nodos=297
+[2025-09-11T12:45:00.941] [INFO] system - [F2] INICIO  deque_size=50
+[2025-09-11T12:45:00.942] [INFO] system - [F2] FIN resumen: palabras=50 nodos=297
+[2025-09-11T12:45:00.942] [INFO] system - [F1] INICIO  palabras=100
+[2025-09-11T12:45:00.946] [INFO] system - [F1] FIN resumen: palabras=100 nodos=704
+[2025-09-11T12:45:00.946] [INFO] system - [F2] INICIO  deque_size=100
+[2025-09-11T12:45:00.947] [INFO] system - [F2] FIN resumen: palabras=100 nodos=704
+[2025-09-11T12:45:00.948] [INFO] system - [F1] INICIO  palabras=100
+[2025-09-11T12:45:00.950] [INFO] system - [F1] FIN resumen: palabras=100 nodos=704
+[2025-09-11T12:45:00.950] [INFO] system - [F2] INICIO  deque_size=100
+[2025-09-11T12:45:00.953] [INFO] system - [F2] FIN resumen: palabras=100 nodos=704
+[2025-09-11T12:45:00.953] [INFO] system - [F1] INICIO  palabras=100
+[2025-09-11T12:45:00.955] [INFO] system - [F1] FIN resumen: palabras=100 nodos=704
+[2025-09-11T12:45:00.955] [INFO] system - [F2] INICIO  deque_size=100
+[2025-09-11T12:45:00.957] [INFO] system - [F2] FIN resumen: palabras=100 nodos=704
+[2025-09-11T12:45:00.957] [INFO] system - [F1] INICIO  palabras=100
+[2025-09-11T12:45:00.959] [INFO] system - [F1] FIN resumen: palabras=100 nodos=704
+[2025-09-11T12:45:00.959] [INFO] system - [F2] INICIO  deque_size=100
+[2025-09-11T12:45:00.961] [INFO] system - [F2] FIN resumen: palabras=100 nodos=704
+[2025-09-11T12:45:00.961] [INFO] system - [F1] INICIO  palabras=100
+[2025-09-11T12:45:00.963] [INFO] system - [F1] FIN resumen: palabras=100 nodos=704
+[2025-09-11T12:45:00.963] [INFO] system - [F2] INICIO  deque_size=100
+[2025-09-11T12:45:00.965] [INFO] system - [F2] FIN resumen: palabras=100 nodos=704
+[2025-09-11T12:45:00.966] [INFO] system - [F1] INICIO  palabras=150
+[2025-09-11T12:45:00.968] [INFO] system - [F1] FIN resumen: palabras=150 nodos=917
+[2025-09-11T12:45:00.968] [INFO] system - [F2] INICIO  deque_size=150
+[2025-09-11T12:45:00.971] [INFO] system - [F2] FIN resumen: palabras=150 nodos=917
+[2025-09-11T12:45:00.971] [INFO] system - [F1] INICIO  palabras=150
+[2025-09-11T12:45:00.973] [INFO] system - [F1] FIN resumen: palabras=150 nodos=917
+[2025-09-11T12:45:00.974] [INFO] system - [F2] INICIO  deque_size=150
+[2025-09-11T12:45:00.976] [INFO] system - [F2] FIN resumen: palabras=150 nodos=917
+[2025-09-11T12:45:00.976] [INFO] system - [F1] INICIO  palabras=150
+[2025-09-11T12:45:00.979] [INFO] system - [F1] FIN resumen: palabras=150 nodos=917
+[2025-09-11T12:45:00.979] [INFO] system - [F2] INICIO  deque_size=150
+[2025-09-11T12:45:00.982] [INFO] system - [F2] FIN resumen: palabras=150 nodos=917
+[2025-09-11T12:45:00.982] [INFO] system - [F1] INICIO  palabras=150
+[2025-09-11T12:45:00.984] [INFO] system - [F1] FIN resumen: palabras=150 nodos=917
+[2025-09-11T12:45:00.984] [INFO] system - [F2] INICIO  deque_size=150
+[2025-09-11T12:45:00.987] [INFO] system - [F2] FIN resumen: palabras=150 nodos=917
+[2025-09-11T12:45:00.987] [INFO] system - [F1] INICIO  palabras=150
+[2025-09-11T12:45:00.991] [INFO] system - [F1] FIN resumen: palabras=150 nodos=917
+[2025-09-11T12:45:00.991] [INFO] system - [F2] INICIO  deque_size=150
+[2025-09-11T12:45:00.994] [INFO] system - [F2] FIN resumen: palabras=150 nodos=917
+[2025-09-11T12:45:00.996] [INFO] system - [F1] INICIO  palabras=200
+[2025-09-11T12:45:00.999] [INFO] system - [F1] FIN resumen: palabras=200 nodos=1292
+[2025-09-11T12:45:00.999] [INFO] system - [F2] INICIO  deque_size=200
+[2025-09-11T12:45:01.003] [INFO] system - [F2] FIN resumen: palabras=200 nodos=1292
+[2025-09-11T12:45:01.003] [INFO] system - [F1] INICIO  palabras=200
+[2025-09-11T12:45:01.008] [INFO] system - [F1] FIN resumen: palabras=200 nodos=1292
+[2025-09-11T12:45:01.008] [INFO] system - [F2] INICIO  deque_size=200
+[2025-09-11T12:45:01.013] [INFO] system - [F2] FIN resumen: palabras=200 nodos=1292
+[2025-09-11T12:45:01.013] [INFO] system - [F1] INICIO  palabras=200
+[2025-09-11T12:45:01.016] [INFO] system - [F1] FIN resumen: palabras=200 nodos=1292
+[2025-09-11T12:45:01.016] [INFO] system - [F2] INICIO  deque_size=200
+[2025-09-11T12:45:01.019] [INFO] system - [F2] FIN resumen: palabras=200 nodos=1292
+[2025-09-11T12:45:01.019] [INFO] system - [F1] INICIO  palabras=200
+[2025-09-11T12:45:01.024] [INFO] system - [F1] FIN resumen: palabras=200 nodos=1292
+[2025-09-11T12:45:01.024] [INFO] system - [F2] INICIO  deque_size=200
+[2025-09-11T12:45:01.026] [INFO] system - [F2] FIN resumen: palabras=200 nodos=1292
+[2025-09-11T12:45:01.027] [INFO] system - [F1] INICIO  palabras=200
+[2025-09-11T12:45:01.029] [INFO] system - [F1] FIN resumen: palabras=200 nodos=1292
+[2025-09-11T12:45:01.029] [INFO] system - [F2] INICIO  deque_size=200
+[2025-09-11T12:45:01.032] [INFO] system - [F2] FIN resumen: palabras=200 nodos=1292
+[2025-09-11T12:45:01.034] [INFO] system - [F1] INICIO  palabras=600
+[2025-09-11T12:45:01.044] [INFO] system - [F1] FIN resumen: palabras=600 nodos=3945
+[2025-09-11T12:45:01.044] [INFO] system - [F2] INICIO  deque_size=600
+[2025-09-11T12:45:01.051] [INFO] system - [F2] FIN resumen: palabras=600 nodos=3945
+[2025-09-11T12:45:01.051] [INFO] system - [F1] INICIO  palabras=600
+[2025-09-11T12:45:01.056] [INFO] system - [F1] FIN resumen: palabras=600 nodos=3945
+[2025-09-11T12:45:01.056] [INFO] system - [F2] INICIO  deque_size=600
+[2025-09-11T12:45:01.063] [INFO] system - [F2] FIN resumen: palabras=600 nodos=3945
+[2025-09-11T12:45:01.063] [INFO] system - [F1] INICIO  palabras=600
+[2025-09-11T12:45:01.069] [INFO] system - [F1] FIN resumen: palabras=600 nodos=3945
+[2025-09-11T12:45:01.069] [INFO] system - [F2] INICIO  deque_size=600
+[2025-09-11T12:45:01.075] [INFO] system - [F2] FIN resumen: palabras=600 nodos=3945
+[2025-09-11T12:45:01.075] [INFO] system - [F1] INICIO  palabras=600
+[2025-09-11T12:45:01.082] [INFO] system - [F1] FIN resumen: palabras=600 nodos=3945
+[2025-09-11T12:45:01.082] [INFO] system - [F2] INICIO  deque_size=600
+[2025-09-11T12:45:01.087] [INFO] system - [F2] FIN resumen: palabras=600 nodos=3945
+[2025-09-11T12:45:01.088] [INFO] system - [F1] INICIO  palabras=600
+[2025-09-11T12:45:01.094] [INFO] system - [F1] FIN resumen: palabras=600 nodos=3945
+[2025-09-11T12:45:01.094] [INFO] system - [F2] INICIO  deque_size=600
+[2025-09-11T12:45:01.100] [INFO] system - [F2] FIN resumen: palabras=600 nodos=3945
+[2025-09-11T12:45:01.101] [INFO] system - [F1] INICIO  palabras=700
+[2025-09-11T12:45:01.108] [INFO] system - [F1] FIN resumen: palabras=700 nodos=4598
+[2025-09-11T12:45:01.108] [INFO] system - [F2] INICIO  deque_size=700
+[2025-09-11T12:45:01.116] [INFO] system - [F2] FIN resumen: palabras=700 nodos=4598
+[2025-09-11T12:45:01.116] [INFO] system - [F1] INICIO  palabras=700
+[2025-09-11T12:45:01.124] [INFO] system - [F1] FIN resumen: palabras=700 nodos=4598
+[2025-09-11T12:45:01.124] [INFO] system - [F2] INICIO  deque_size=700
+[2025-09-11T12:45:01.130] [INFO] system - [F2] FIN resumen: palabras=700 nodos=4598
+[2025-09-11T12:45:01.130] [INFO] system - [F1] INICIO  palabras=700
+[2025-09-11T12:45:01.139] [INFO] system - [F1] FIN resumen: palabras=700 nodos=4598
+[2025-09-11T12:45:01.139] [INFO] system - [F2] INICIO  deque_size=700
+[2025-09-11T12:45:01.146] [INFO] system - [F2] FIN resumen: palabras=700 nodos=4598
+[2025-09-11T12:45:01.146] [INFO] system - [F1] INICIO  palabras=700
+[2025-09-11T12:45:01.153] [INFO] system - [F1] FIN resumen: palabras=700 nodos=4598
+[2025-09-11T12:45:01.153] [INFO] system - [F2] INICIO  deque_size=700
+[2025-09-11T12:45:01.159] [INFO] system - [F2] FIN resumen: palabras=700 nodos=4598
+[2025-09-11T12:45:01.159] [INFO] system - [F1] INICIO  palabras=700
+[2025-09-11T12:45:01.166] [INFO] system - [F1] FIN resumen: palabras=700 nodos=4598
+[2025-09-11T12:45:01.166] [INFO] system - [F2] INICIO  deque_size=700
+[2025-09-11T12:45:01.172] [INFO] system - [F2] FIN resumen: palabras=700 nodos=4598
+[2025-09-11T12:45:01.173] [INFO] system - [F1] INICIO  palabras=850
+[2025-09-11T12:45:01.181] [INFO] system - [F1] FIN resumen: palabras=850 nodos=5552
+[2025-09-11T12:45:01.181] [INFO] system - [F2] INICIO  deque_size=850
+[2025-09-11T12:45:01.189] [INFO] system - [F2] FIN resumen: palabras=850 nodos=5552
+[2025-09-11T12:45:01.189] [INFO] system - [F1] INICIO  palabras=850
+[2025-09-11T12:45:01.197] [INFO] system - [F1] FIN resumen: palabras=850 nodos=5552
+[2025-09-11T12:45:01.197] [INFO] system - [F2] INICIO  deque_size=850
+[2025-09-11T12:45:01.206] [INFO] system - [F2] FIN resumen: palabras=850 nodos=5552
+[2025-09-11T12:45:01.206] [INFO] system - [F1] INICIO  palabras=850
+[2025-09-11T12:45:01.213] [INFO] system - [F1] FIN resumen: palabras=850 nodos=5552
+[2025-09-11T12:45:01.213] [INFO] system - [F2] INICIO  deque_size=850
+[2025-09-11T12:45:01.229] [INFO] system - [F2] FIN resumen: palabras=850 nodos=5552
+[2025-09-11T12:45:01.229] [INFO] system - [F1] INICIO  palabras=850
+[2025-09-11T12:45:01.238] [INFO] system - [F1] FIN resumen: palabras=850 nodos=5552
+[2025-09-11T12:45:01.238] [INFO] system - [F2] INICIO  deque_size=850
+[2025-09-11T12:45:01.247] [INFO] system - [F2] FIN resumen: palabras=850 nodos=5552
+[2025-09-11T12:45:01.247] [INFO] system - [F1] INICIO  palabras=850
+[2025-09-11T12:45:01.254] [INFO] system - [F1] FIN resumen: palabras=850 nodos=5552
+[2025-09-11T12:45:01.254] [INFO] system - [F2] INICIO  deque_size=850
+[2025-09-11T12:45:01.265] [INFO] system - [F2] FIN resumen: palabras=850 nodos=5552
+[2025-09-11T12:45:01.266] [INFO] system - [F1] INICIO  palabras=900
+[2025-09-11T12:45:01.276] [INFO] system - [F1] FIN resumen: palabras=900 nodos=5900
+[2025-09-11T12:45:01.276] [INFO] system - [F2] INICIO  deque_size=900
+[2025-09-11T12:45:01.286] [INFO] system - [F2] FIN resumen: palabras=900 nodos=5900
+[2025-09-11T12:45:01.286] [INFO] system - [F1] INICIO  palabras=900
+[2025-09-11T12:45:01.295] [INFO] system - [F1] FIN resumen: palabras=900 nodos=5900
+[2025-09-11T12:45:01.295] [INFO] system - [F2] INICIO  deque_size=900
+[2025-09-11T12:45:01.305] [INFO] system - [F2] FIN resumen: palabras=900 nodos=5900
+[2025-09-11T12:45:01.306] [INFO] system - [F1] INICIO  palabras=900
+[2025-09-11T12:45:01.315] [INFO] system - [F1] FIN resumen: palabras=900 nodos=5900
+[2025-09-11T12:45:01.315] [INFO] system - [F2] INICIO  deque_size=900
+[2025-09-11T12:45:01.327] [INFO] system - [F2] FIN resumen: palabras=900 nodos=5900
+[2025-09-11T12:45:01.327] [INFO] system - [F1] INICIO  palabras=900
+[2025-09-11T12:45:01.334] [INFO] system - [F1] FIN resumen: palabras=900 nodos=5900
+[2025-09-11T12:45:01.334] [INFO] system - [F2] INICIO  deque_size=900
+[2025-09-11T12:45:01.341] [INFO] system - [F2] FIN resumen: palabras=900 nodos=5900
+[2025-09-11T12:45:01.341] [INFO] system - [F1] INICIO  palabras=900
+[2025-09-11T12:45:01.350] [INFO] system - [F1] FIN resumen: palabras=900 nodos=5900
+[2025-09-11T12:45:01.350] [INFO] system - [F2] INICIO  deque_size=900
+[2025-09-11T12:45:01.358] [INFO] system - [F2] FIN resumen: palabras=900 nodos=5900
+[2025-09-11T12:45:01.359] [INFO] system - [F1] INICIO  palabras=1000
+[2025-09-11T12:45:01.367] [INFO] system - [F1] FIN resumen: palabras=1000 nodos=6596
+[2025-09-11T12:45:01.367] [INFO] system - [F2] INICIO  deque_size=1000
+[2025-09-11T12:45:01.378] [INFO] system - [F2] FIN resumen: palabras=1000 nodos=6596
+[2025-09-11T12:45:01.378] [INFO] system - [F1] INICIO  palabras=1000
+[2025-09-11T12:45:01.386] [INFO] system - [F1] FIN resumen: palabras=1000 nodos=6596
+[2025-09-11T12:45:01.386] [INFO] system - [F2] INICIO  deque_size=1000
+[2025-09-11T12:45:01.395] [INFO] system - [F2] FIN resumen: palabras=1000 nodos=6596
+[2025-09-11T12:45:01.396] [INFO] system - [F1] INICIO  palabras=1000
+[2025-09-11T12:45:01.405] [INFO] system - [F1] FIN resumen: palabras=1000 nodos=6596
+[2025-09-11T12:45:01.405] [INFO] system - [F2] INICIO  deque_size=1000
+[2025-09-11T12:45:01.415] [INFO] system - [F2] FIN resumen: palabras=1000 nodos=6596
+[2025-09-11T12:45:01.415] [INFO] system - [F1] INICIO  palabras=1000
+[2025-09-11T12:45:01.423] [INFO] system - [F1] FIN resumen: palabras=1000 nodos=6596
+[2025-09-11T12:45:01.423] [INFO] system - [F2] INICIO  deque_size=1000
+[2025-09-11T12:45:01.433] [INFO] system - [F2] FIN resumen: palabras=1000 nodos=6596
+[2025-09-11T12:45:01.434] [INFO] system - [F1] INICIO  palabras=1000
+[2025-09-11T12:45:01.441] [INFO] system - [F1] FIN resumen: palabras=1000 nodos=6596
+[2025-09-11T12:45:01.441] [INFO] system - [F2] INICIO  deque_size=1000
+[2025-09-11T12:45:01.451] [INFO] system - [F2] FIN resumen: palabras=1000 nodos=6596
+[2025-09-11T12:46:45.393] [INFO] system - [F1] INICIO  palabras=10
+[2025-09-11T12:46:45.396] [INFO] system - [F1] FIN resumen: palabras=10 nodos=66
+[2025-09-11T12:46:45.396] [INFO] system - [F2] INICIO  deque_size=10
+[2025-09-11T12:46:45.397] [INFO] system - [F2] FIN resumen: palabras=10 nodos=66
+[2025-09-11T12:46:45.397] [INFO] system - [F1] INICIO  palabras=10
+[2025-09-11T12:46:45.397] [INFO] system - [F1] FIN resumen: palabras=10 nodos=66
+[2025-09-11T12:46:45.397] [INFO] system - [F2] INICIO  deque_size=10
+[2025-09-11T12:46:45.398] [INFO] system - [F2] FIN resumen: palabras=10 nodos=66
+[2025-09-11T12:46:45.399] [INFO] system - [F1] INICIO  palabras=10
+[2025-09-11T12:46:45.399] [INFO] system - [F1] FIN resumen: palabras=10 nodos=66
+[2025-09-11T12:46:45.399] [INFO] system - [F2] INICIO  deque_size=10
+[2025-09-11T12:46:45.399] [INFO] system - [F2] FIN resumen: palabras=10 nodos=66
+[2025-09-11T12:46:45.399] [INFO] system - [F1] INICIO  palabras=10
+[2025-09-11T12:46:45.399] [INFO] system - [F1] FIN resumen: palabras=10 nodos=66
+[2025-09-11T12:46:45.399] [INFO] system - [F2] INICIO  deque_size=10
+[2025-09-11T12:46:45.400] [INFO] system - [F2] FIN resumen: palabras=10 nodos=66
+[2025-09-11T12:46:45.400] [INFO] system - [F1] INICIO  palabras=10
+[2025-09-11T12:46:45.400] [INFO] system - [F1] FIN resumen: palabras=10 nodos=66
+[2025-09-11T12:46:45.400] [INFO] system - [F2] INICIO  deque_size=10
+[2025-09-11T12:46:45.400] [INFO] system - [F2] FIN resumen: palabras=10 nodos=66
+[2025-09-11T12:46:45.400] [INFO] system - [F1] INICIO  palabras=50
+[2025-09-11T12:46:45.401] [INFO] system - [F1] FIN resumen: palabras=50 nodos=317
+[2025-09-11T12:46:45.401] [INFO] system - [F2] INICIO  deque_size=50
+[2025-09-11T12:46:45.403] [INFO] system - [F2] FIN resumen: palabras=50 nodos=317
+[2025-09-11T12:46:45.403] [INFO] system - [F1] INICIO  palabras=50
+[2025-09-11T12:46:45.404] [INFO] system - [F1] FIN resumen: palabras=50 nodos=317
+[2025-09-11T12:46:45.404] [INFO] system - [F2] INICIO  deque_size=50
+[2025-09-11T12:46:45.405] [INFO] system - [F2] FIN resumen: palabras=50 nodos=317
+[2025-09-11T12:46:45.405] [INFO] system - [F1] INICIO  palabras=50
+[2025-09-11T12:46:45.408] [INFO] system - [F1] FIN resumen: palabras=50 nodos=317
+[2025-09-11T12:46:45.408] [INFO] system - [F2] INICIO  deque_size=50
+[2025-09-11T12:46:45.409] [INFO] system - [F2] FIN resumen: palabras=50 nodos=317
+[2025-09-11T12:46:45.409] [INFO] system - [F1] INICIO  palabras=50
+[2025-09-11T12:46:45.410] [INFO] system - [F1] FIN resumen: palabras=50 nodos=317
+[2025-09-11T12:46:45.410] [INFO] system - [F2] INICIO  deque_size=50
+[2025-09-11T12:46:45.411] [INFO] system - [F2] FIN resumen: palabras=50 nodos=317
+[2025-09-11T12:46:45.411] [INFO] system - [F1] INICIO  palabras=50
+[2025-09-11T12:46:45.412] [INFO] system - [F1] FIN resumen: palabras=50 nodos=317
+[2025-09-11T12:46:45.412] [INFO] system - [F2] INICIO  deque_size=50
+[2025-09-11T12:46:45.413] [INFO] system - [F2] FIN resumen: palabras=50 nodos=317
+[2025-09-11T12:46:45.413] [INFO] system - [F1] INICIO  palabras=100
+[2025-09-11T12:46:45.416] [INFO] system - [F1] FIN resumen: palabras=100 nodos=689
+[2025-09-11T12:46:45.416] [INFO] system - [F2] INICIO  deque_size=100
+[2025-09-11T12:46:45.418] [INFO] system - [F2] FIN resumen: palabras=100 nodos=689
+[2025-09-11T12:46:45.418] [INFO] system - [F1] INICIO  palabras=100
+[2025-09-11T12:46:45.420] [INFO] system - [F1] FIN resumen: palabras=100 nodos=689
+[2025-09-11T12:46:45.420] [INFO] system - [F2] INICIO  deque_size=100
+[2025-09-11T12:46:45.424] [INFO] system - [F2] FIN resumen: palabras=100 nodos=689
+[2025-09-11T12:46:45.424] [INFO] system - [F1] INICIO  palabras=100
+[2025-09-11T12:46:45.426] [INFO] system - [F1] FIN resumen: palabras=100 nodos=689
+[2025-09-11T12:46:45.426] [INFO] system - [F2] INICIO  deque_size=100
+[2025-09-11T12:46:45.428] [INFO] system - [F2] FIN resumen: palabras=100 nodos=689
+[2025-09-11T12:46:45.428] [INFO] system - [F1] INICIO  palabras=100
+[2025-09-11T12:46:45.431] [INFO] system - [F1] FIN resumen: palabras=100 nodos=689
+[2025-09-11T12:46:45.431] [INFO] system - [F2] INICIO  deque_size=100
+[2025-09-11T12:46:45.433] [INFO] system - [F2] FIN resumen: palabras=100 nodos=689
+[2025-09-11T12:46:45.433] [INFO] system - [F1] INICIO  palabras=100
+[2025-09-11T12:46:45.435] [INFO] system - [F1] FIN resumen: palabras=100 nodos=689
+[2025-09-11T12:46:45.435] [INFO] system - [F2] INICIO  deque_size=100
+[2025-09-11T12:46:45.437] [INFO] system - [F2] FIN resumen: palabras=100 nodos=689
+[2025-09-11T12:46:45.437] [INFO] system - [F1] INICIO  palabras=150
+[2025-09-11T12:46:45.440] [INFO] system - [F1] FIN resumen: palabras=150 nodos=964
+[2025-09-11T12:46:45.440] [INFO] system - [F2] INICIO  deque_size=150
+[2025-09-11T12:46:45.443] [INFO] system - [F2] FIN resumen: palabras=150 nodos=964
+[2025-09-11T12:46:45.443] [INFO] system - [F1] INICIO  palabras=150
+[2025-09-11T12:46:45.445] [INFO] system - [F1] FIN resumen: palabras=150 nodos=964
+[2025-09-11T12:46:45.445] [INFO] system - [F2] INICIO  deque_size=150
+[2025-09-11T12:46:45.448] [INFO] system - [F2] FIN resumen: palabras=150 nodos=964
+[2025-09-11T12:46:45.449] [INFO] system - [F1] INICIO  palabras=150
+[2025-09-11T12:46:45.451] [INFO] system - [F1] FIN resumen: palabras=150 nodos=964
+[2025-09-11T12:46:45.451] [INFO] system - [F2] INICIO  deque_size=150
+[2025-09-11T12:46:45.454] [INFO] system - [F2] FIN resumen: palabras=150 nodos=964
+[2025-09-11T12:46:45.454] [INFO] system - [F1] INICIO  palabras=150
+[2025-09-11T12:46:45.457] [INFO] system - [F1] FIN resumen: palabras=150 nodos=964
+[2025-09-11T12:46:45.457] [INFO] system - [F2] INICIO  deque_size=150
+[2025-09-11T12:46:45.459] [INFO] system - [F2] FIN resumen: palabras=150 nodos=964
+[2025-09-11T12:46:45.459] [INFO] system - [F1] INICIO  palabras=150
+[2025-09-11T12:46:45.464] [INFO] system - [F1] FIN resumen: palabras=150 nodos=964
+[2025-09-11T12:46:45.464] [INFO] system - [F2] INICIO  deque_size=150
+[2025-09-11T12:46:45.468] [INFO] system - [F2] FIN resumen: palabras=150 nodos=964
+[2025-09-11T12:46:45.469] [INFO] system - [F1] INICIO  palabras=200
+[2025-09-11T12:46:45.474] [INFO] system - [F1] FIN resumen: palabras=200 nodos=1282
+[2025-09-11T12:46:45.474] [INFO] system - [F2] INICIO  deque_size=200
+[2025-09-11T12:46:45.480] [INFO] system - [F2] FIN resumen: palabras=200 nodos=1282
+[2025-09-11T12:46:45.480] [INFO] system - [F1] INICIO  palabras=200
+[2025-09-11T12:46:45.486] [INFO] system - [F1] FIN resumen: palabras=200 nodos=1282
+[2025-09-11T12:46:45.486] [INFO] system - [F2] INICIO  deque_size=200
+[2025-09-11T12:46:45.490] [INFO] system - [F2] FIN resumen: palabras=200 nodos=1282
+[2025-09-11T12:46:45.491] [INFO] system - [F1] INICIO  palabras=200
+[2025-09-11T12:46:45.494] [INFO] system - [F1] FIN resumen: palabras=200 nodos=1282
+[2025-09-11T12:46:45.494] [INFO] system - [F2] INICIO  deque_size=200
+[2025-09-11T12:46:45.498] [INFO] system - [F2] FIN resumen: palabras=200 nodos=1282
+[2025-09-11T12:46:45.499] [INFO] system - [F1] INICIO  palabras=200
+[2025-09-11T12:46:45.503] [INFO] system - [F1] FIN resumen: palabras=200 nodos=1282
+[2025-09-11T12:46:45.503] [INFO] system - [F2] INICIO  deque_size=200
+[2025-09-11T12:46:45.506] [INFO] system - [F2] FIN resumen: palabras=200 nodos=1282
+[2025-09-11T12:46:45.506] [INFO] system - [F1] INICIO  palabras=200
+[2025-09-11T12:46:45.508] [INFO] system - [F1] FIN resumen: palabras=200 nodos=1282
+[2025-09-11T12:46:45.508] [INFO] system - [F2] INICIO  deque_size=200
+[2025-09-11T12:46:45.512] [INFO] system - [F2] FIN resumen: palabras=200 nodos=1282
+[2025-09-11T12:46:45.513] [INFO] system - [F1] INICIO  palabras=600
+[2025-09-11T12:46:45.523] [INFO] system - [F1] FIN resumen: palabras=600 nodos=3894
+[2025-09-11T12:46:45.523] [INFO] system - [F2] INICIO  deque_size=600
+[2025-09-11T12:46:45.530] [INFO] system - [F2] FIN resumen: palabras=600 nodos=3894
+[2025-09-11T12:46:45.530] [INFO] system - [F1] INICIO  palabras=600
+[2025-09-11T12:46:45.536] [INFO] system - [F1] FIN resumen: palabras=600 nodos=3894
+[2025-09-11T12:46:45.536] [INFO] system - [F2] INICIO  deque_size=600
+[2025-09-11T12:46:45.542] [INFO] system - [F2] FIN resumen: palabras=600 nodos=3894
+[2025-09-11T12:46:45.542] [INFO] system - [F1] INICIO  palabras=600
+[2025-09-11T12:46:45.549] [INFO] system - [F1] FIN resumen: palabras=600 nodos=3894
+[2025-09-11T12:46:45.549] [INFO] system - [F2] INICIO  deque_size=600
+[2025-09-11T12:46:45.555] [INFO] system - [F2] FIN resumen: palabras=600 nodos=3894
+[2025-09-11T12:46:45.555] [INFO] system - [F1] INICIO  palabras=600
+[2025-09-11T12:46:45.562] [INFO] system - [F1] FIN resumen: palabras=600 nodos=3894
+[2025-09-11T12:46:45.562] [INFO] system - [F2] INICIO  deque_size=600
+[2025-09-11T12:46:45.568] [INFO] system - [F2] FIN resumen: palabras=600 nodos=3894
+[2025-09-11T12:46:45.568] [INFO] system - [F1] INICIO  palabras=600
+[2025-09-11T12:46:45.575] [INFO] system - [F1] FIN resumen: palabras=600 nodos=3894
+[2025-09-11T12:46:45.575] [INFO] system - [F2] INICIO  deque_size=600
+[2025-09-11T12:46:45.580] [INFO] system - [F2] FIN resumen: palabras=600 nodos=3894
+[2025-09-11T12:46:45.581] [INFO] system - [F1] INICIO  palabras=700
+[2025-09-11T12:46:45.589] [INFO] system - [F1] FIN resumen: palabras=700 nodos=4550
+[2025-09-11T12:46:45.589] [INFO] system - [F2] INICIO  deque_size=700
+[2025-09-11T12:46:45.597] [INFO] system - [F2] FIN resumen: palabras=700 nodos=4550
+[2025-09-11T12:46:45.597] [INFO] system - [F1] INICIO  palabras=700
+[2025-09-11T12:46:45.605] [INFO] system - [F1] FIN resumen: palabras=700 nodos=4550
+[2025-09-11T12:46:45.605] [INFO] system - [F2] INICIO  deque_size=700
+[2025-09-11T12:46:45.612] [INFO] system - [F2] FIN resumen: palabras=700 nodos=4550
+[2025-09-11T12:46:45.612] [INFO] system - [F1] INICIO  palabras=700
+[2025-09-11T12:46:45.620] [INFO] system - [F1] FIN resumen: palabras=700 nodos=4550
+[2025-09-11T12:46:45.620] [INFO] system - [F2] INICIO  deque_size=700
+[2025-09-11T12:46:45.628] [INFO] system - [F2] FIN resumen: palabras=700 nodos=4550
+[2025-09-11T12:46:45.628] [INFO] system - [F1] INICIO  palabras=700
+[2025-09-11T12:46:45.635] [INFO] system - [F1] FIN resumen: palabras=700 nodos=4550
+[2025-09-11T12:46:45.635] [INFO] system - [F2] INICIO  deque_size=700
+[2025-09-11T12:46:45.642] [INFO] system - [F2] FIN resumen: palabras=700 nodos=4550
+[2025-09-11T12:46:45.642] [INFO] system - [F1] INICIO  palabras=700
+[2025-09-11T12:46:45.648] [INFO] system - [F1] FIN resumen: palabras=700 nodos=4550
+[2025-09-11T12:46:45.648] [INFO] system - [F2] INICIO  deque_size=700
+[2025-09-11T12:46:45.655] [INFO] system - [F2] FIN resumen: palabras=700 nodos=4550
+[2025-09-11T12:46:45.655] [INFO] system - [F1] INICIO  palabras=850
+[2025-09-11T12:46:45.663] [INFO] system - [F1] FIN resumen: palabras=850 nodos=5498
+[2025-09-11T12:46:45.663] [INFO] system - [F2] INICIO  deque_size=850
+[2025-09-11T12:46:45.672] [INFO] system - [F2] FIN resumen: palabras=850 nodos=5498
+[2025-09-11T12:46:45.672] [INFO] system - [F1] INICIO  palabras=850
+[2025-09-11T12:46:45.678] [INFO] system - [F1] FIN resumen: palabras=850 nodos=5498
+[2025-09-11T12:46:45.678] [INFO] system - [F2] INICIO  deque_size=850
+[2025-09-11T12:46:45.688] [INFO] system - [F2] FIN resumen: palabras=850 nodos=5498
+[2025-09-11T12:46:45.688] [INFO] system - [F1] INICIO  palabras=850
+[2025-09-11T12:46:45.695] [INFO] system - [F1] FIN resumen: palabras=850 nodos=5498
+[2025-09-11T12:46:45.695] [INFO] system - [F2] INICIO  deque_size=850
+[2025-09-11T12:46:45.704] [INFO] system - [F2] FIN resumen: palabras=850 nodos=5498
+[2025-09-11T12:46:45.704] [INFO] system - [F1] INICIO  palabras=850
+[2025-09-11T12:46:45.713] [INFO] system - [F1] FIN resumen: palabras=850 nodos=5498
+[2025-09-11T12:46:45.713] [INFO] system - [F2] INICIO  deque_size=850
+[2025-09-11T12:46:45.725] [INFO] system - [F2] FIN resumen: palabras=850 nodos=5498
+[2025-09-11T12:46:45.725] [INFO] system - [F1] INICIO  palabras=850
+[2025-09-11T12:46:45.734] [INFO] system - [F1] FIN resumen: palabras=850 nodos=5498
+[2025-09-11T12:46:45.734] [INFO] system - [F2] INICIO  deque_size=850
+[2025-09-11T12:46:45.742] [INFO] system - [F2] FIN resumen: palabras=850 nodos=5498
+[2025-09-11T12:46:45.742] [INFO] system - [F1] INICIO  palabras=900
+[2025-09-11T12:46:45.751] [INFO] system - [F1] FIN resumen: palabras=900 nodos=5918
+[2025-09-11T12:46:45.751] [INFO] system - [F2] INICIO  deque_size=900
+[2025-09-11T12:46:45.761] [INFO] system - [F2] FIN resumen: palabras=900 nodos=5918
+[2025-09-11T12:46:45.761] [INFO] system - [F1] INICIO  palabras=900
+[2025-09-11T12:46:45.769] [INFO] system - [F1] FIN resumen: palabras=900 nodos=5918
+[2025-09-11T12:46:45.769] [INFO] system - [F2] INICIO  deque_size=900
+[2025-09-11T12:46:45.779] [INFO] system - [F2] FIN resumen: palabras=900 nodos=5918
+[2025-09-11T12:46:45.779] [INFO] system - [F1] INICIO  palabras=900
+[2025-09-11T12:46:45.789] [INFO] system - [F1] FIN resumen: palabras=900 nodos=5918
+[2025-09-11T12:46:45.789] [INFO] system - [F2] INICIO  deque_size=900
+[2025-09-11T12:46:45.804] [INFO] system - [F2] FIN resumen: palabras=900 nodos=5918
+[2025-09-11T12:46:45.804] [INFO] system - [F1] INICIO  palabras=900
+[2025-09-11T12:46:45.812] [INFO] system - [F1] FIN resumen: palabras=900 nodos=5918
+[2025-09-11T12:46:45.812] [INFO] system - [F2] INICIO  deque_size=900
+[2025-09-11T12:46:45.819] [INFO] system - [F2] FIN resumen: palabras=900 nodos=5918
+[2025-09-11T12:46:45.819] [INFO] system - [F1] INICIO  palabras=900
+[2025-09-11T12:46:45.828] [INFO] system - [F1] FIN resumen: palabras=900 nodos=5918
+[2025-09-11T12:46:45.828] [INFO] system - [F2] INICIO  deque_size=900
+[2025-09-11T12:46:45.837] [INFO] system - [F2] FIN resumen: palabras=900 nodos=5918
+[2025-09-11T12:46:45.837] [INFO] system - [F1] INICIO  palabras=1000
+[2025-09-11T12:46:45.846] [INFO] system - [F1] FIN resumen: palabras=1000 nodos=6447
+[2025-09-11T12:46:45.846] [INFO] system - [F2] INICIO  deque_size=1000
+[2025-09-11T12:46:45.857] [INFO] system - [F2] FIN resumen: palabras=1000 nodos=6447
+[2025-09-11T12:46:45.857] [INFO] system - [F1] INICIO  palabras=1000
+[2025-09-11T12:46:45.865] [INFO] system - [F1] FIN resumen: palabras=1000 nodos=6447
+[2025-09-11T12:46:45.865] [INFO] system - [F2] INICIO  deque_size=1000
+[2025-09-11T12:46:45.874] [INFO] system - [F2] FIN resumen: palabras=1000 nodos=6447
+[2025-09-11T12:46:45.874] [INFO] system - [F1] INICIO  palabras=1000
+[2025-09-11T12:46:45.884] [INFO] system - [F1] FIN resumen: palabras=1000 nodos=6447
+[2025-09-11T12:46:45.884] [INFO] system - [F2] INICIO  deque_size=1000
+[2025-09-11T12:46:45.893] [INFO] system - [F2] FIN resumen: palabras=1000 nodos=6447
+[2025-09-11T12:46:45.893] [INFO] system - [F1] INICIO  palabras=1000
+[2025-09-11T12:46:45.902] [INFO] system - [F1] FIN resumen: palabras=1000 nodos=6447
+[2025-09-11T12:46:45.902] [INFO] system - [F2] INICIO  deque_size=1000
+[2025-09-11T12:46:45.912] [INFO] system - [F2] FIN resumen: palabras=1000 nodos=6447
+[2025-09-11T12:46:45.912] [INFO] system - [F1] INICIO  palabras=1000
+[2025-09-11T12:46:45.920] [INFO] system - [F1] FIN resumen: palabras=1000 nodos=6447
+[2025-09-11T12:46:45.920] [INFO] system - [F2] INICIO  deque_size=1000
+[2025-09-11T12:46:45.930] [INFO] system - [F2] FIN resumen: palabras=1000 nodos=6447
+[2025-09-11T12:49:59.020] [INFO] system - [F1] INICIO  palabras=100
+[2025-09-11T12:49:59.027] [INFO] system - [F1] FIN resumen: palabras=100 nodos=634
+[2025-09-11T12:49:59.027] [INFO] system - [F2] INICIO  deque_size=100
+[2025-09-11T12:49:59.030] [INFO] system - [F2] FIN resumen: palabras=100 nodos=634
+[2025-09-11T12:49:59.031] [INFO] system - [F1] INICIO  palabras=100
+[2025-09-11T12:49:59.034] [INFO] system - [F1] FIN resumen: palabras=100 nodos=634
+[2025-09-11T12:49:59.034] [INFO] system - [F2] INICIO  deque_size=100
+[2025-09-11T12:49:59.038] [INFO] system - [F2] FIN resumen: palabras=100 nodos=634
+[2025-09-11T12:49:59.038] [INFO] system - [F1] INICIO  palabras=100
+[2025-09-11T12:49:59.040] [INFO] system - [F1] FIN resumen: palabras=100 nodos=634
+[2025-09-11T12:49:59.040] [INFO] system - [F2] INICIO  deque_size=100
+[2025-09-11T12:49:59.043] [INFO] system - [F2] FIN resumen: palabras=100 nodos=634
+[2025-09-11T12:49:59.043] [INFO] system - [F1] INICIO  palabras=100
+[2025-09-11T12:49:59.046] [INFO] system - [F1] FIN resumen: palabras=100 nodos=634
+[2025-09-11T12:49:59.046] [INFO] system - [F2] INICIO  deque_size=100
+[2025-09-11T12:49:59.047] [INFO] system - [F2] FIN resumen: palabras=100 nodos=634
+[2025-09-11T12:49:59.048] [INFO] system - [F1] INICIO  palabras=100
+[2025-09-11T12:49:59.050] [INFO] system - [F1] FIN resumen: palabras=100 nodos=634
+[2025-09-11T12:49:59.050] [INFO] system - [F2] INICIO  deque_size=100
+[2025-09-11T12:49:59.052] [INFO] system - [F2] FIN resumen: palabras=100 nodos=634
+[2025-09-11T12:49:59.053] [INFO] system - [F1] INICIO  palabras=250
+[2025-09-11T12:49:59.058] [INFO] system - [F1] FIN resumen: palabras=250 nodos=1661
+[2025-09-11T12:49:59.058] [INFO] system - [F2] INICIO  deque_size=250
+[2025-09-11T12:49:59.064] [INFO] system - [F2] FIN resumen: palabras=250 nodos=1661
+[2025-09-11T12:49:59.064] [INFO] system - [F1] INICIO  palabras=250
+[2025-09-11T12:49:59.068] [INFO] system - [F1] FIN resumen: palabras=250 nodos=1661
+[2025-09-11T12:49:59.068] [INFO] system - [F2] INICIO  deque_size=250
+[2025-09-11T12:49:59.073] [INFO] system - [F2] FIN resumen: palabras=250 nodos=1661
+[2025-09-11T12:49:59.074] [INFO] system - [F1] INICIO  palabras=250
+[2025-09-11T12:49:59.079] [INFO] system - [F1] FIN resumen: palabras=250 nodos=1661
+[2025-09-11T12:49:59.079] [INFO] system - [F2] INICIO  deque_size=250
+[2025-09-11T12:49:59.084] [INFO] system - [F2] FIN resumen: palabras=250 nodos=1661
+[2025-09-11T12:49:59.084] [INFO] system - [F1] INICIO  palabras=250
+[2025-09-11T12:49:59.088] [INFO] system - [F1] FIN resumen: palabras=250 nodos=1661
+[2025-09-11T12:49:59.088] [INFO] system - [F2] INICIO  deque_size=250
+[2025-09-11T12:49:59.095] [INFO] system - [F2] FIN resumen: palabras=250 nodos=1661
+[2025-09-11T12:49:59.096] [INFO] system - [F1] INICIO  palabras=250
+[2025-09-11T12:49:59.104] [INFO] system - [F1] FIN resumen: palabras=250 nodos=1661
+[2025-09-11T12:49:59.104] [INFO] system - [F2] INICIO  deque_size=250
+[2025-09-11T12:49:59.112] [INFO] system - [F2] FIN resumen: palabras=250 nodos=1661
+[2025-09-11T12:49:59.112] [INFO] system - [F1] INICIO  palabras=500
+[2025-09-11T12:49:59.121] [INFO] system - [F1] FIN resumen: palabras=500 nodos=3281
+[2025-09-11T12:49:59.121] [INFO] system - [F2] INICIO  deque_size=500
+[2025-09-11T12:49:59.129] [INFO] system - [F2] FIN resumen: palabras=500 nodos=3281
+[2025-09-11T12:49:59.130] [INFO] system - [F1] INICIO  palabras=500
+[2025-09-11T12:49:59.138] [INFO] system - [F1] FIN resumen: palabras=500 nodos=3281
+[2025-09-11T12:49:59.138] [INFO] system - [F2] INICIO  deque_size=500
+[2025-09-11T12:49:59.145] [INFO] system - [F2] FIN resumen: palabras=500 nodos=3281
+[2025-09-11T12:49:59.145] [INFO] system - [F1] INICIO  palabras=500
+[2025-09-11T12:49:59.151] [INFO] system - [F1] FIN resumen: palabras=500 nodos=3281
+[2025-09-11T12:49:59.151] [INFO] system - [F2] INICIO  deque_size=500
+[2025-09-11T12:49:59.157] [INFO] system - [F2] FIN resumen: palabras=500 nodos=3281
+[2025-09-11T12:49:59.157] [INFO] system - [F1] INICIO  palabras=500
+[2025-09-11T12:49:59.162] [INFO] system - [F1] FIN resumen: palabras=500 nodos=3281
+[2025-09-11T12:49:59.162] [INFO] system - [F2] INICIO  deque_size=500
+[2025-09-11T12:49:59.168] [INFO] system - [F2] FIN resumen: palabras=500 nodos=3281
+[2025-09-11T12:49:59.168] [INFO] system - [F1] INICIO  palabras=500
+[2025-09-11T12:49:59.174] [INFO] system - [F1] FIN resumen: palabras=500 nodos=3281
+[2025-09-11T12:49:59.174] [INFO] system - [F2] INICIO  deque_size=500
+[2025-09-11T12:49:59.181] [INFO] system - [F2] FIN resumen: palabras=500 nodos=3281
+[2025-09-11T12:49:59.182] [INFO] system - [F1] INICIO  palabras=750
+[2025-09-11T12:49:59.190] [INFO] system - [F1] FIN resumen: palabras=750 nodos=4836
+[2025-09-11T12:49:59.190] [INFO] system - [F2] INICIO  deque_size=750
+[2025-09-11T12:49:59.200] [INFO] system - [F2] FIN resumen: palabras=750 nodos=4836
+[2025-09-11T12:49:59.200] [INFO] system - [F1] INICIO  palabras=750
+[2025-09-11T12:49:59.207] [INFO] system - [F1] FIN resumen: palabras=750 nodos=4836
+[2025-09-11T12:49:59.207] [INFO] system - [F2] INICIO  deque_size=750
+[2025-09-11T12:49:59.216] [INFO] system - [F2] FIN resumen: palabras=750 nodos=4836
+[2025-09-11T12:49:59.216] [INFO] system - [F1] INICIO  palabras=750
+[2025-09-11T12:49:59.224] [INFO] system - [F1] FIN resumen: palabras=750 nodos=4836
+[2025-09-11T12:49:59.224] [INFO] system - [F2] INICIO  deque_size=750
+[2025-09-11T12:49:59.233] [INFO] system - [F2] FIN resumen: palabras=750 nodos=4836
+[2025-09-11T12:49:59.233] [INFO] system - [F1] INICIO  palabras=750
+[2025-09-11T12:49:59.240] [INFO] system - [F1] FIN resumen: palabras=750 nodos=4836
+[2025-09-11T12:49:59.240] [INFO] system - [F2] INICIO  deque_size=750
+[2025-09-11T12:49:59.249] [INFO] system - [F2] FIN resumen: palabras=750 nodos=4836
+[2025-09-11T12:49:59.249] [INFO] system - [F1] INICIO  palabras=750
+[2025-09-11T12:49:59.255] [INFO] system - [F1] FIN resumen: palabras=750 nodos=4836
+[2025-09-11T12:49:59.255] [INFO] system - [F2] INICIO  deque_size=750
+[2025-09-11T12:49:59.263] [INFO] system - [F2] FIN resumen: palabras=750 nodos=4836
+[2025-09-11T12:49:59.264] [INFO] system - [F1] INICIO  palabras=1000
+[2025-09-11T12:49:59.273] [INFO] system - [F1] FIN resumen: palabras=1000 nodos=6591
+[2025-09-11T12:49:59.273] [INFO] system - [F2] INICIO  deque_size=1000
+[2025-09-11T12:49:59.283] [INFO] system - [F2] FIN resumen: palabras=1000 nodos=6591
+[2025-09-11T12:49:59.283] [INFO] system - [F1] INICIO  palabras=1000
+[2025-09-11T12:49:59.291] [INFO] system - [F1] FIN resumen: palabras=1000 nodos=6591
+[2025-09-11T12:49:59.291] [INFO] system - [F2] INICIO  deque_size=1000
+[2025-09-11T12:49:59.302] [INFO] system - [F2] FIN resumen: palabras=1000 nodos=6591
+[2025-09-11T12:49:59.302] [INFO] system - [F1] INICIO  palabras=1000
+[2025-09-11T12:49:59.310] [INFO] system - [F1] FIN resumen: palabras=1000 nodos=6591
+[2025-09-11T12:49:59.310] [INFO] system - [F2] INICIO  deque_size=1000
+[2025-09-11T12:49:59.319] [INFO] system - [F2] FIN resumen: palabras=1000 nodos=6591
+[2025-09-11T12:49:59.320] [INFO] system - [F1] INICIO  palabras=1000
+[2025-09-11T12:49:59.336] [INFO] system - [F1] FIN resumen: palabras=1000 nodos=6591
+[2025-09-11T12:49:59.336] [INFO] system - [F2] INICIO  deque_size=1000
+[2025-09-11T12:49:59.346] [INFO] system - [F2] FIN resumen: palabras=1000 nodos=6591
+[2025-09-11T12:49:59.346] [INFO] system - [F1] INICIO  palabras=1000
+[2025-09-11T12:49:59.356] [INFO] system - [F1] FIN resumen: palabras=1000 nodos=6591
+[2025-09-11T12:49:59.356] [INFO] system - [F2] INICIO  deque_size=1000
+[2025-09-11T12:49:59.366] [INFO] system - [F2] FIN resumen: palabras=1000 nodos=6591
+[2025-09-11T12:49:59.368] [INFO] system - [F1] INICIO  palabras=2500
+[2025-09-11T12:49:59.391] [INFO] system - [F1] FIN resumen: palabras=2500 nodos=16202
+[2025-09-11T12:49:59.391] [INFO] system - [F2] INICIO  deque_size=2500
+[2025-09-11T12:49:59.430] [INFO] system - [F2] FIN resumen: palabras=2500 nodos=16202
+[2025-09-11T12:49:59.430] [INFO] system - [F1] INICIO  palabras=2500
+[2025-09-11T12:49:59.474] [INFO] system - [F1] FIN resumen: palabras=2500 nodos=16202
+[2025-09-11T12:49:59.474] [INFO] system - [F2] INICIO  deque_size=2500
+[2025-09-11T12:49:59.519] [INFO] system - [F2] FIN resumen: palabras=2500 nodos=16202
+[2025-09-11T12:49:59.519] [INFO] system - [F1] INICIO  palabras=2500
+[2025-09-11T12:49:59.573] [INFO] system - [F1] FIN resumen: palabras=2500 nodos=16202
+[2025-09-11T12:49:59.573] [INFO] system - [F2] INICIO  deque_size=2500
+[2025-09-11T12:49:59.598] [INFO] system - [F2] FIN resumen: palabras=2500 nodos=16202
+[2025-09-11T12:49:59.599] [INFO] system - [F1] INICIO  palabras=2500
+[2025-09-11T12:49:59.637] [INFO] system - [F1] FIN resumen: palabras=2500 nodos=16202
+[2025-09-11T12:49:59.637] [INFO] system - [F2] INICIO  deque_size=2500
+[2025-09-11T12:49:59.665] [INFO] system - [F2] FIN resumen: palabras=2500 nodos=16202
+[2025-09-11T12:49:59.666] [INFO] system - [F1] INICIO  palabras=2500
+[2025-09-11T12:49:59.688] [INFO] system - [F1] FIN resumen: palabras=2500 nodos=16202
+[2025-09-11T12:49:59.688] [INFO] system - [F2] INICIO  deque_size=2500
+[2025-09-11T12:49:59.728] [INFO] system - [F2] FIN resumen: palabras=2500 nodos=16202
+[2025-09-11T12:49:59.730] [INFO] system - [F1] INICIO  palabras=5000
+[2025-09-11T12:49:59.773] [INFO] system - [F1] FIN resumen: palabras=5000 nodos=32362
+[2025-09-11T12:49:59.773] [INFO] system - [F2] INICIO  deque_size=5000
+[2025-09-11T12:49:59.824] [INFO] system - [F2] FIN resumen: palabras=5000 nodos=32362
+[2025-09-11T12:49:59.824] [INFO] system - [F1] INICIO  palabras=5000
+[2025-09-11T12:49:59.867] [INFO] system - [F1] FIN resumen: palabras=5000 nodos=32362
+[2025-09-11T12:49:59.867] [INFO] system - [F2] INICIO  deque_size=5000
+[2025-09-11T12:49:59.911] [INFO] system - [F2] FIN resumen: palabras=5000 nodos=32362
+[2025-09-11T12:49:59.912] [INFO] system - [F1] INICIO  palabras=5000
+[2025-09-11T12:49:59.954] [INFO] system - [F1] FIN resumen: palabras=5000 nodos=32362
+[2025-09-11T12:49:59.954] [INFO] system - [F2] INICIO  deque_size=5000
+[2025-09-11T12:50:00.012] [INFO] system - [F2] FIN resumen: palabras=5000 nodos=32362
+[2025-09-11T12:50:00.012] [INFO] system - [F1] INICIO  palabras=5000
+[2025-09-11T12:50:00.061] [INFO] system - [F1] FIN resumen: palabras=5000 nodos=32362
+[2025-09-11T12:50:00.061] [INFO] system - [F2] INICIO  deque_size=5000
+[2025-09-11T12:50:00.118] [INFO] system - [F2] FIN resumen: palabras=5000 nodos=32362
+[2025-09-11T12:50:00.119] [INFO] system - [F1] INICIO  palabras=5000
+[2025-09-11T12:50:00.165] [INFO] system - [F1] FIN resumen: palabras=5000 nodos=32362
+[2025-09-11T12:50:00.165] [INFO] system - [F2] INICIO  deque_size=5000
+[2025-09-11T12:50:00.212] [INFO] system - [F2] FIN resumen: palabras=5000 nodos=32362
+[2025-09-11T12:50:00.215] [INFO] system - [F1] INICIO  palabras=7500
+[2025-09-11T12:50:00.287] [INFO] system - [F1] FIN resumen: palabras=7500 nodos=48611
+[2025-09-11T12:50:00.287] [INFO] system - [F2] INICIO  deque_size=7500
+[2025-09-11T12:50:00.363] [INFO] system - [F2] FIN resumen: palabras=7500 nodos=48611
+[2025-09-11T12:50:00.363] [INFO] system - [F1] INICIO  palabras=7500
+[2025-09-11T12:50:00.429] [INFO] system - [F1] FIN resumen: palabras=7500 nodos=48611
+[2025-09-11T12:50:00.429] [INFO] system - [F2] INICIO  deque_size=7500
+[2025-09-11T12:50:00.496] [INFO] system - [F2] FIN resumen: palabras=7500 nodos=48611
+[2025-09-11T12:50:00.499] [INFO] system - [F1] INICIO  palabras=7500
+[2025-09-11T12:50:00.569] [INFO] system - [F1] FIN resumen: palabras=7500 nodos=48611
+[2025-09-11T12:50:00.569] [INFO] system - [F2] INICIO  deque_size=7500
+[2025-09-11T12:50:00.639] [INFO] system - [F2] FIN resumen: palabras=7500 nodos=48611
+[2025-09-11T12:50:00.640] [INFO] system - [F1] INICIO  palabras=7500
+[2025-09-11T12:50:00.706] [INFO] system - [F1] FIN resumen: palabras=7500 nodos=48611
+[2025-09-11T12:50:00.706] [INFO] system - [F2] INICIO  deque_size=7500
+[2025-09-11T12:50:00.770] [INFO] system - [F2] FIN resumen: palabras=7500 nodos=48611
+[2025-09-11T12:50:00.771] [INFO] system - [F1] INICIO  palabras=7500
+[2025-09-11T12:50:00.839] [INFO] system - [F1] FIN resumen: palabras=7500 nodos=48611
+[2025-09-11T12:50:00.839] [INFO] system - [F2] INICIO  deque_size=7500
+[2025-09-11T12:50:00.906] [INFO] system - [F2] FIN resumen: palabras=7500 nodos=48611
+[2025-09-11T12:50:00.910] [INFO] system - [F1] INICIO  palabras=10000
+[2025-09-11T12:50:00.996] [INFO] system - [F1] FIN resumen: palabras=10000 nodos=65254
+[2025-09-11T12:50:00.996] [INFO] system - [F2] INICIO  deque_size=10000
+[2025-09-11T12:50:01.089] [INFO] system - [F2] FIN resumen: palabras=10000 nodos=65254
+[2025-09-11T12:50:01.090] [INFO] system - [F1] INICIO  palabras=10000
+[2025-09-11T12:50:01.183] [INFO] system - [F1] FIN resumen: palabras=10000 nodos=65254
+[2025-09-11T12:50:01.183] [INFO] system - [F2] INICIO  deque_size=10000
+[2025-09-11T12:50:01.271] [INFO] system - [F2] FIN resumen: palabras=10000 nodos=65254
+[2025-09-11T12:50:01.272] [INFO] system - [F1] INICIO  palabras=10000
+[2025-09-11T12:50:01.363] [INFO] system - [F1] FIN resumen: palabras=10000 nodos=65254
+[2025-09-11T12:50:01.363] [INFO] system - [F2] INICIO  deque_size=10000
+[2025-09-11T12:50:01.455] [INFO] system - [F2] FIN resumen: palabras=10000 nodos=65254
+[2025-09-11T12:50:01.456] [INFO] system - [F1] INICIO  palabras=10000
+[2025-09-11T12:50:01.549] [INFO] system - [F1] FIN resumen: palabras=10000 nodos=65254
+[2025-09-11T12:50:01.549] [INFO] system - [F2] INICIO  deque_size=10000
+[2025-09-11T12:50:01.662] [INFO] system - [F2] FIN resumen: palabras=10000 nodos=65254
+[2025-09-11T12:50:01.666] [INFO] system - [F1] INICIO  palabras=10000
+[2025-09-11T12:50:01.761] [INFO] system - [F1] FIN resumen: palabras=10000 nodos=65254
+[2025-09-11T12:50:01.761] [INFO] system - [F2] INICIO  deque_size=10000
+[2025-09-11T12:50:01.864] [INFO] system - [F2] FIN resumen: palabras=10000 nodos=65254
+[2025-09-11T13:16:20.691] [INFO] system - [F1] INICIO  palabras=63
+[2025-09-11T13:16:20.694] [INFO] system - [F1] FIN resumen: palabras=63 nodos=284
+[2025-09-11T13:16:27.679] [INFO] system - [F2] INICIO  deque_size=63
+[2025-09-11T13:16:27.681] [INFO] system - [F2] FIN resumen: palabras=63 nodos=284
+[2025-09-11T13:38:45.739] [INFO] system - [F1] INICIO  palabras=58
+[2025-09-11T13:38:45.742] [INFO] system - [F1] FIN resumen: palabras=58 nodos=250
+[2025-09-11T13:38:53.255] [INFO] system - [F2] INICIO  deque_size=58
+[2025-09-11T13:38:53.257] [INFO] system - [F2] FIN resumen: palabras=58 nodos=250
