@@ -164,7 +164,7 @@ function layoutReferencias(obj) {
 }
 
 function layoutTotal(obj) {
-  return `|====== Tamanio total en memoria ======|\n${deepSize(obj)} bytes`;
+  return `|====== Tamaño total en memoria ======|\n${deepSize(obj)} bytes`;
 }
 
 export function medirPesoObjeto(obj, titulo) {
