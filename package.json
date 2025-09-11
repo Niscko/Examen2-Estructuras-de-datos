@@ -1,7 +1,12 @@
 {
   "type": "module",
   "dependencies": {
-    "Express": "^3.0.1",
-    "node-fetch": "^3.3.2"
+    "log4js": "^6.9.1",
+    "node-fetch": "^3.3.2",
+    "systeminformation": "^5.27.8"
+  },
+  "scripts": {
+    "start": "node Examen2Solucion/main.js",
+    "experiments": "node Examen2Solucion/service/experiments.js"
   }
 }
